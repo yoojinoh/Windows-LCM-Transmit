@@ -1,0 +1,9 @@
+c:\users\yj\documents\visual studio 2013\Projects\joystick_practice_0321_2\joystick_practice_0321_2\bin\Debug\joystick_practice_0321_2.exe.config
+c:\users\yj\documents\visual studio 2013\Projects\joystick_practice_0321_2\joystick_practice_0321_2\obj\Debug\joystick_practice_0321_2.csprojResolveAssemblyReference.cache
+c:\users\yj\documents\visual studio 2013\Projects\joystick_practice_0321_2\joystick_practice_0321_2\obj\Debug\joystick_practice_0321_2.Form1.resources
+c:\users\yj\documents\visual studio 2013\Projects\joystick_practice_0321_2\joystick_practice_0321_2\obj\Debug\joystick_practice_0321_2.Properties.Resources.resources
+c:\users\yj\documents\visual studio 2013\Projects\joystick_practice_0321_2\joystick_practice_0321_2\obj\Debug\joystick_practice_0321_2.csproj.GenerateResource.Cache
+c:\users\yj\documents\visual studio 2013\Projects\joystick_practice_0321_2\joystick_practice_0321_2\bin\Debug\joystick_practice_0321_2.exe
+c:\users\yj\documents\visual studio 2013\Projects\joystick_practice_0321_2\joystick_practice_0321_2\bin\Debug\joystick_practice_0321_2.pdb
+c:\users\yj\documents\visual studio 2013\Projects\joystick_practice_0321_2\joystick_practice_0321_2\obj\Debug\joystick_practice_0321_2.exe
+c:\users\yj\documents\visual studio 2013\Projects\joystick_practice_0321_2\joystick_practice_0321_2\obj\Debug\joystick_practice_0321_2.pdb
